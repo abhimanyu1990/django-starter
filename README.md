@@ -7,7 +7,7 @@ This is Django Rest Framework based starter application having following impleme
 3. User API
 4. ToDo API 
     1. Admin can view all the ToDo list
-    2. User can view their own ToDO list
+    2. User can view their own ToDO list only
 5. Swagger implementation for API documentation and Testing
 6. Custom Group
 7. Custom permissions 
