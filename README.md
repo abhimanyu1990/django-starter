@@ -34,7 +34,9 @@ I have used python3.8 for the development environment
 4. Run following commands for database migrations script and create superuser in application home directory
     
     ` $ python manage.py makemigrations`
+   
     ` $ python manage.py migrate`
+    
     ` $ python manage.py createsuperuser`
 
 5. Run the application
